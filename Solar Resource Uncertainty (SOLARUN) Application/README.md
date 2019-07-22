@@ -1,2 +1,2 @@
-# SolarResourceModelsandTools
+# Solar Resource Uncertainty (SOLARUN) Application
 NREL provides solar resource data and tools to help energy system designers, project developers, renewable energy analysts, system operators, and others accelerate the integration of solar technologies on the grid. One of this tools is a GUI interface to calculate solar resource measurement uncertainty of various instruments. This tool includes source of uncertainties from calibration, zenith response, azimuth response, spectral response, tilt response, nonlinearity, temperature response, aging per year, datalogger, maintenance, etc.  For each source, there are 5 configuration options (acts on input / output quantity, uncertainty type, distribution, symmetry and analysis).
